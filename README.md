@@ -1,2 +1,2 @@
 
-https://github.com/mohammedalzilylei-dotcom/-mohammedalzilylei-dotcom-/releases/download/v2.0.0/app.apk
+https://github.com/mohammedalzilylei-dotcom/-mohammedalzilylei-dotcom-/releases/download/v1.0.0/app.apk
